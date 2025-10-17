@@ -43,10 +43,10 @@ nav ul li a {
 
 nav ul li a:hover {
     /* background-color: burlywood; */
-    outline: 2px solid burlywood;
-    color: burlywood;
-    border: 2px solid burlywood;
-    border-radius: 5px;
+    /* outline: 2px solid burlywood; */
+    color: red;
+    /* border: 2px solid burlywood; */
+    /* border-radius: 5px; */
     padding: 5px;
     
     
